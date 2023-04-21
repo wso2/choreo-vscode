@@ -8,4 +8,4 @@ Another significant enhancement is the ability to log in to the Choreo platform 
 
 Furthermore, the extension enables you to create various types of components including RESTful APIs, GraphQL APIs, webhooks, or scheduled apps. With the extension, you can create these new components, implement the necessary logic, and deploy them to Choreo easily from within the VS Code IDE itself.
 
-We hope you find these new features useful and convenient. If you have any questions or feedback, do not hesitate to raise issues in the [`chore-vscode`](https://github.com/wso2/choreo-vscode) GitHub repository.
+We hope you find these new features useful and convenient. If you have any questions or feedback, do not hesitate to raise issues in the [`choreo-vscode`](https://github.com/wso2/choreo-vscode) GitHub repository.
