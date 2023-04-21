@@ -8,19 +8,19 @@ Another significant enhancement is the ability to log in to the Choreo platform 
 
 Furthermore, the extension enables you to create various types of components including RESTful APIs, GraphQL APIs, webhooks, or scheduled apps. With the extension, you can create these new components, implement the necessary logic, and deploy them to Choreo easily from within the VS Code IDE itself.
 
-### Signing In
+### Sign in
 
 <img src="./v1.0.0-screens/sign-in.gif" class="cInlineImage-full"/>
 
-### Creating Projects
+### Creatw projects
 
 <img src="./v1.0.0-screens/create-project.gif" class="cInlineImage-full"/>
 
-### Cloning Projects
+### Clone projects
 
 <img src="./v1.0.0-screens/clone-project.gif" class="cInlineImage-full"/>
 
-### Creating Components
+### Create components
 
 <img src="./v1.0.0-screens/create-gql-api.gif" class="cInlineImage-full"/>
 
@@ -38,7 +38,7 @@ Furthermore, the extension enables you to create various types of components inc
 
 <img src="./v1.0.0-screens/source-navigation.gif" class="cInlineImage-full"/>
 
-### Pushing to Choreo
+### Push to Choreo
 
 <img src="./v1.0.0-screens/pushing.gif" class="cInlineImage-full"/>
 
