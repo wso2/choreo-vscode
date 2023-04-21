@@ -8,4 +8,43 @@ Another significant enhancement is the ability to log in to the Choreo platform 
 
 Furthermore, the extension enables you to create various types of components including RESTful APIs, GraphQL APIs, webhooks, or scheduled apps. With the extension, you can create these new components, implement the necessary logic, and deploy them to Choreo easily from within the VS Code IDE itself.
 
+### Signing In
+
+<img src="./v1.0.0-screens/sign-in.gif" class="cInlineImage-full"/>
+
+### Creating Projects
+
+<img src="./v1.0.0-screens/create-project.gif" class="cInlineImage-full"/>
+
+### Cloning Projects
+
+<img src="./v1.0.0-screens/clone-project.gif" class="cInlineImage-full"/>
+
+### Creating Components
+
+<img src="./v1.0.0-screens/create-gql-api.gif" class="cInlineImage-full"/>
+
+<img src="./v1.0.0-screens/create-rest-service.gif" class="cInlineImage-full"/>
+
+<img src="./v1.0.0-screens/create-service-arch-view.gif" class="cInlineImage-full"/>
+
+<img src="./v1.0.0-screens/create-webhook.gif" class="cInlineImage-full"/>
+
+### Architecture View
+
+<img src="./v1.0.0-screens/linking.gif" class="cInlineImage-full"/>
+
+<img src="./v1.0.0-screens/service-design.gif" class="cInlineImage-full"/>
+
+<img src="./v1.0.0-screens/source-navigation.gif" class="cInlineImage-full"/>
+
+### Pushing to Choreo
+
+<img src="./v1.0.0-screens/pushing.gif" class="cInlineImage-full"/>
+
+
+### Cell View
+
+<img src="./v1.0.0-screens/cellview.gif" class="cInlineImage-full"/>
+
 We hope you find these new features useful and convenient. If you have any questions or feedback, do not hesitate to raise issues in the [`choreo-vscode`](https://github.com/wso2/choreo-vscode) GitHub repository.
