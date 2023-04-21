@@ -1,6 +1,6 @@
 # Choreo VS Code extension version 1.0
 
-We are excited to announce the Choreo VS Code extension version 1.0 release, which has a range of features that make it easier and more convenientfoer you to design, develop, and manage cloud-native applications on the Choreo platform.
+We are excited to announce the Choreo VS Code extension version 1.0 release, which has a range of features that make it easier and more convenient for you to design, develop, and manage cloud-native applications on the Choreo platform.
 
 One of the key features of this release is the ability to design and scaffold a cloud-native application project for Choreo using the powerful Ballerina programming language directly from within the VS Code IDE. The extension makes it easier for you to quickly get started with Choreo by generating project structures and defining service interfaces.
 
