@@ -12,7 +12,7 @@ Furthermore, the extension enables you to create various types of components inc
 
 <img src="./v1.0.0-screens/sign-in.gif" class="cInlineImage-full"/>
 
-### Creatw projects
+### Create projects
 
 <img src="./v1.0.0-screens/create-project.gif" class="cInlineImage-full"/>
 
