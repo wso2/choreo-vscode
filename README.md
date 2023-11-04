@@ -59,9 +59,7 @@ Follow the steps below to design and develop your application by adding componen
 
 3. Once the component is created, **Cell View** is enabled.
 
-4. Click **+** icon in components section or **+ Component** in Cell view to create components.
-
-5. Right-click on the added components to load the **Context** menu of them, and click the **Use Internal/External APIs** links to mark the interactions between them.
+4. Click **+** icon in components section to create components.
 
 ![Architecture Diagram](docs/choreo-extension/images/CreateComponent.gif)
 
