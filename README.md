@@ -17,7 +17,7 @@ You need an active Choreo account to utilize the capabilities of the Choreo exte
    - Via the `Sign In` prompt displayed upon successful initialization of the extension
    - Via the `Sign In` options available by clicking the Choreo icon on the activity bar of your VS Code editor
 
-   ![Sign In](docs/choreo-extension/images/v1/signIn.gif)
+   ![Sign In](docs/choreo-extension/images/signIn.gif)
 
 > **Tip:** The above step redirects you to an external URI to complete the authentication process. If the sign-in is successful, the organization linked to your Choreo account will be visible in the Choreo activity panel.
 
@@ -35,7 +35,7 @@ Follow the steps below to create a new Choreo project directly from VS Code.
 
    > **Tip:** If you want to use a single repo to store all the components of the project, select the **Mono repository** option, and provide a GitHub **Repository** and its **Organization**. This will redirect you to GitHub to authorize a repository to link it to the project.
 
-![New Project Wizard](docs/choreo-extension/images/v1/CreateProject.gif)
+![New Project Wizard](docs/choreo-extension/images/CreateProject.gif)
 
 ## Open project
 
@@ -49,7 +49,7 @@ Follow the step below to open an exisiting Choreo project and create a copy of i
 
    > **Tip:** Once the project is cloned, it opens as a workspace in VS Code. Each component will be available as a workspace item.
 
-![Open Project](docs/choreo-extension/images/v1/openProject.gif)
+![Open Project](docs/choreo-extension/images/openProject.gif)
 
 ## Design and develop your application
 
@@ -65,7 +65,7 @@ Follow the steps below to design and develop your application by adding componen
 
 4. Click **+** icon in components section to create components.
 
-![Architecture Diagram](docs/choreo-extension/images/v1/CreateComponent.gif)
+![Architecture Diagram](docs/choreo-extension/images/CreateComponent.gif)
 
 The above step will create sources for each component locally in the given repo, and each component will be added as a workspace item in VS Code.
 
@@ -85,7 +85,7 @@ Follow the steps below to push the changes to Choreo after creating the componen
 
    > **Info:** Once you push the components, they will be visible on the Choreo platform.
 
-![Push Changes](docs/choreo-extension/images/v1/PushToChoreo.gif)
+![Push Changes](docs/choreo-extension/images/PushToChoreo.gif)
 
 ## Deploy your components
 
