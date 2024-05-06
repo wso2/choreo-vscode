@@ -1,6 +1,4 @@
-## ⚠️ Click [here](README_V2.md) for details on the upcoming version 2.0
-
-<br>
+> ⚠️ Click [here](README_V2.md) for details on the upcoming **version 2.0**
 
 # The Choreo extension for Visual Studio Code
 

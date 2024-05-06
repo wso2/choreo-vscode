@@ -1,8 +1,6 @@
-## ⚠️ Choreo Extension V2.0 is under development
-
+> ### ⚠️ Choreo Extension V2.0 is under development
+>
 > You can test it out by switching to the pre-release version within the Choreo extension for VS Code.
-
-<br>
 
 # Choreo Extension for Visual Studio Code V2.0
 
