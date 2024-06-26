@@ -19,21 +19,21 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 
 ## Screenshots
 
-|                _Sign in to Choreo via VS Code_                |
-| :-----------------------------------------------------------: |
 | ![sign-in.png](./docs/choreo-extension/images/v2/sign-in.png) |
+| :-----------------------------------------------------------: |
+|                _Sign in to Choreo via VS Code_                |
 
 <br>
 
-|                          _Component creation form_                          |
-| :-------------------------------------------------------------------------: |
 | ![component-form.png](./docs/choreo-extension/images/v2/component-form.png) |
+| :-------------------------------------------------------------------------: |
+|                          _Component creation form_                          |
 
 <br>
 
-|                                     _Component details_                                     |
-| :-----------------------------------------------------------------------------------------: |
 | ![component-details-view.png](./docs/choreo-extension/images/v2/component-details-view.png) |
+| :-----------------------------------------------------------------------------------------: |
+|                                     _Component details_                                     |
 
 ## Discover Additional Features
 
