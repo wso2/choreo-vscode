@@ -1,64 +1,49 @@
 # Choreo Extension for Visual Studio Code
 
-The Choreo VS Code extension enhances your local development experience with [Choreo projects](https://wso2.com/choreo/) by providing comprehensive project and component management capabilities. Learn more about [Choreo](https://wso2.com/choreo/docs/).
+The Choreo VS Code extension enhances your local development experience with [Choreo](https://wso2.com/choreo/) projects, providing comprehensive project and component management capabilities in VS Code. For more details, visit the [Choreo documentation](https://wso2.com/choreo/docs/).
 
 ## Getting Started
 
-To utilize the Choreo extension in the VS Code editor, you need an active Choreo account. Follow these steps to set up the extension:
+1. [Create an account on Choreo](https://console.choreo.dev/).
+2. Install the [Choreo VS Code extension](https://marketplace.visualstudio.com/items?itemName=WSO2.choreo).
+3. Sign in to Choreo via VS Code (see screenshot below).
+4. Refer to this [guide](https://wso2.com/choreo/docs/develop-components/develop-components-using-vs-code/#create-a-new-component) for instructions on creating a new component.
 
-1. Install the [Choreo VS Code extension](https://marketplace.visualstudio.com/items?itemName=WSO2.choreo) and wait for initialization.
+## Feature List
 
-2. Sign in to Choreo using one of the following methods:
+- **Manage Projects**: Work with Choreo [projects](https://wso2.com/choreo/docs/choreo-concepts/project/) directly in your VS Code workspace.
+- **Create Components**: Generate [components](https://wso2.com/choreo/docs/choreo-concepts/component/) linked to your application source.
+- **Trigger Builds**: Initiate builds for your components in the cloud and view the build logs.
+- **Deploy Builds**: Deploy your component builds to any chosen [environments](https://wso2.com/choreo/docs/choreo-concepts/environments/).
+- **Test Services**: Verify the functionality of publicly exposed services.
+- **Monitor Components**: Access runtime logs to monitor your deployed components.
 
-   - Click the `Sign In` button within the Choreo activity panel.
-   - Use the `Sign In` command provided by the Choreo extension.
+## Screenshots
 
-   ![Sign In](docs/choreo-extension/images/v2/sign-in.png)
+| ![sign-in.png](./docs/choreo-extension/images/v2/sign-in.png) |
+| :-----------------------------------------------------------: |
+|                _Sign in to Choreo via VS Code_                |
 
-> **Tip:** Upon successful sign-in, your account details will be visible in the user account view of the Choreo activity panel.
+<br>
 
-## Create and Manage Components
+| ![component-form.png](./docs/choreo-extension/images/v2/component-form.png) |
+| :-------------------------------------------------------------------------: |
+|                          _Component creation form_                          |
 
-Follow these steps to create and manage Choreo components directly from VS Code:
+<br>
 
-1. In the Choreo activity panel, click the **Create Component** button or execute the **Create new component** command from the Command palette.
+| ![component-details-view.png](./docs/choreo-extension/images/v2/component-details-view.png) |
+| :-----------------------------------------------------------------------------------------: |
+|                                  _Component details view_                                   |
 
-   ![Create component button](docs/choreo-extension/images/v2/create-component-btn.png)
+| ![component-details-view.png](./docs/choreo-extension/images/v2/logs.png) |
+| :-----------------------------------------------------------------------: |
+|                       _View component runtime logs_                       |
 
-2. Select the organization and project for your component. You can also create a new project if needed.
+## Documentation
 
-3. Provide component details in the **New Choreo Component** pane and click **Create**.
+Refer to the [Choreo documentation](https://wso2.com/choreo/docs/develop-components/develop-components-using-vs-code/) for detailed guides and information regarding the Choreo VS Code extension.
 
-   ![Component form](docs/choreo-extension/images/v2/component-form.png)
+## Get Help
 
-> **Tip:** Ensure the selected directory is within a Git repository.
-
-4. Once created, the component details view will open, and the Choreo activity panel will update with the new component.
-
-   ![Component details](docs/choreo-extension/images/v2/component-details-view.png)
-
-> **Tip:** A `.choreo/context.yaml` file will be generated at the root of the Git repository directory to associate the directory with your Choreo project. If it's not available, regenerate it using the `Select Project` command.
-
-5. The component details view allows various actions such as:
-   - Trigger builds for selected commits
-   - View lists of builds and their statuses
-   - Diagnose build failures using build logs
-   - Deploy builds in available environments
-   - Access runtime logs to monitor deployed components
-   - Test deployed components
-
-## Discover Additional Features
-
-Access a range of functionalities provided by the Choreo extension by opening the VS Code command palette and typing `Choreo`.
-
-## Troubleshooting
-
-To troubleshoot Choreo extension issues:
-
-1. Open the **OUTPUT** pane by clicking **View** and then **OUTPUT** from the main menu.
-
-2. Select **Choreo** from the drop-down menu on the right-hand side to view Choreo output for troubleshooting.
-
-## Ask for help
-
-Feel free to create [GitHub issues](https://github.com/wso2/choreo-vscode/issues) or reach us out on [Discord](https://discord.com/invite/wso2).
+Feel free to create [GitHub issues](https://github.com/wso2/choreo-vscode/issues) or reach out to us on [Discord](https://discord.com/invite/wso2).
