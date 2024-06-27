@@ -10,12 +10,12 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 
 ## Feature List
 
-- Manage Choreo [projects](https://docs.dv.choreo.dev/choreo/docs/choreo-concepts/project/) in your VS Code workspace.
-- Create [components](https://wso2.com/choreo/docs/choreo-concepts/component/) associated with your application source.
-- Trigger builds for your components and view build logs.
-- Deploy component builds to any of your [environments](https://wso2.com/choreo/docs/choreo-concepts/environments/).
-- Monitor components by viewing runtime logs.
-- Test publicly exposed services.
+- **Manage Projects**: Work with Choreo [projects](https://docs.dv.choreo.dev/choreo/docs/choreo-concepts/project/) directly in your VS Code workspace.
+- **Create Components**: Generate [components](https://wso2.com/choreo/docs/choreo-concepts/component/) linked to your application source.
+- **Trigger Builds**: Initiate builds for your components in the cloud and view the build logs.
+- **Deploy Builds**: Deploy your component builds to any chosen [environments](https://wso2.com/choreo/docs/choreo-concepts/environments/).
+- **Monitor Components**: Access runtime logs to monitor your deployed components.
+- **Test Services**: Verify the functionality of publicly exposed services.
 
 ## Screenshots
 
@@ -33,7 +33,7 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 
 | ![component-details-view.png](./docs/choreo-extension/images/v2/component-details-view.png) |
 | :-----------------------------------------------------------------------------------------: |
-|                                     _Component details_                                     |
+|                                  _Component details view_                                   |
 
 ## Discover Additional Features
 
