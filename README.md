@@ -11,7 +11,7 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 
 ## Feature List
 
-- **Manage Projects**: Work with Choreo [projects](https://docs.dv.choreo.dev/choreo/docs/choreo-concepts/project/) directly in your VS Code workspace.
+- **Manage Projects**: Work with Choreo [projects](https://wso2.com/choreo/docs/choreo-concepts/project/) directly in your VS Code workspace.
 - **Create Components**: Generate [components](https://wso2.com/choreo/docs/choreo-concepts/component/) linked to your application source.
 - **Trigger Builds**: Initiate builds for your components in the cloud and view the build logs.
 - **Deploy Builds**: Deploy your component builds to any chosen [environments](https://wso2.com/choreo/docs/choreo-concepts/environments/).
