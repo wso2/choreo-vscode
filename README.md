@@ -7,7 +7,7 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 1. [Create an account on Choreo](https://console.choreo.dev/).
 2. Install the [Choreo VS Code extension](https://marketplace.visualstudio.com/items?itemName=WSO2.choreo).
 3. Sign in to Choreo via VS Code (see screenshot below).
-4. Refer to this [guide](<(https://docs.choreo.dev/choreo/docs/develop-components/develop-components-using-vs-code/#create-a-new-component)>) for instructions on creating a new component.
+4. Refer to this [guide](https://wso2.com/choreo/docs/develop-components/develop-components-using-vs-code/#create-a-new-component) for instructions on creating a new component.
 
 ## Feature List
 
