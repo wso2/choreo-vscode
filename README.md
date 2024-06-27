@@ -7,6 +7,7 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 1. [Create an account on Choreo](https://console.choreo.dev/).
 2. Install the [Choreo VS Code extension](https://marketplace.visualstudio.com/items?itemName=WSO2.choreo).
 3. Sign in to Choreo via VS Code (see screenshot below).
+4. Refer to this [guide](<(https://docs.choreo.dev/choreo/docs/develop-components/develop-components-using-vs-code/#create-a-new-component)>) for instructions on creating a new component.
 
 ## Feature List
 
@@ -14,8 +15,8 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 - **Create Components**: Generate [components](https://wso2.com/choreo/docs/choreo-concepts/component/) linked to your application source.
 - **Trigger Builds**: Initiate builds for your components in the cloud and view the build logs.
 - **Deploy Builds**: Deploy your component builds to any chosen [environments](https://wso2.com/choreo/docs/choreo-concepts/environments/).
-- **Monitor Components**: Access runtime logs to monitor your deployed components.
 - **Test Services**: Verify the functionality of publicly exposed services.
+- **Monitor Components**: Access runtime logs to monitor your deployed components.
 
 ## Screenshots
 
@@ -35,16 +36,13 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 | :-----------------------------------------------------------------------------------------: |
 |                                  _Component details view_                                   |
 
-## Discover Additional Features
+| ![component-details-view.png](./docs/choreo-extension/images/v2/logs.png) |
+| :-----------------------------------------------------------------------: |
+|                         _Component runtime logs_                          |
 
-Access a range of functionalities provided by the Choreo extension by opening the VS Code command palette and typing `Choreo`.
+## Documentation
 
-## Troubleshooting
-
-To troubleshoot Choreo extension issues:
-
-1. Open the **OUTPUT** pane by clicking **View** and then **OUTPUT** from the main menu.
-2. Select **Choreo** from the drop-down menu on the right-hand side to view Choreo output for troubleshooting.
+Refer to the [Choreo documentation](https://wso2.com/choreo/docs/develop-components/develop-components-using-vs-code/) for detailed guides and information regarding the Choreo VS Code extension.
 
 ## Get Help
 
