@@ -38,7 +38,7 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 
 | ![component-details-view.png](./docs/choreo-extension/images/v2/logs.png) |
 | :-----------------------------------------------------------------------: |
-|                         _Component runtime logs_                          |
+|                       _View component runtime logs_                       |
 
 ## Documentation
 
