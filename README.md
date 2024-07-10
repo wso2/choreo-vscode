@@ -36,6 +36,8 @@ The Choreo VS Code extension enhances your local development experience with [Ch
 | :-----------------------------------------------------------------------------------------: |
 |                                  _Component details view_                                   |
 
+<br>
+
 | ![component-details-view.png](./docs/choreo-extension/images/v2/logs.png) |
 | :-----------------------------------------------------------------------: |
 |                       _View component runtime logs_                       |
@@ -47,3 +49,7 @@ Refer to the [Choreo documentation](https://wso2.com/choreo/docs/develop-compone
 ## Get Help
 
 Feel free to create [GitHub issues](https://github.com/wso2/choreo-vscode/issues) or reach out to us on [Discord](https://discord.com/invite/wso2).
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
